@@ -1,0 +1,16 @@
+// import "./FactoryMode";
+// import "./SingleObject";
+// import './Adaptee';
+// import './Decorator';
+// import './ProxyMode';
+// import './Observers';
+// import './Iterator';
+// import './ES6Iterator';
+// import './StateModel';
+// import './javascript-state-machine-demo';
+// import './javascript-state-machine-forPromise';
+// import './PrototypeMode';
+// import './StrategyMode';
+// import './ResponsibilityDesignPattern';
+// import './CommandDesignPattern';
+import './demo-index.js';
